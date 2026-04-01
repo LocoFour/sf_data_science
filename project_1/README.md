@@ -7,7 +7,7 @@
 
 **Перед запуском проекта необходимо скачать следующие файлы:**
 
-1. **[Датасет с резюме HeadHunter]([https://drive.google.com/file/d/1HRr8eH_NNEH8XhkkXrgs8y_P3ROze0RQ/view?usp=drive_link])**
+1. **[Датасет с резюме HeadHunter](https://drive.google.com/file/d/1HRr8eH_NNEH8XhkkXrgs8y_P3ROze0RQ/view?usp=drive_link)**
    - Описание: Данные о соискателях (пол, возраст, опыт работы, образование, желаемая зарплата и др.)
    - Название файла: `dst-3.0_16_1_hh_database.csv`
 
