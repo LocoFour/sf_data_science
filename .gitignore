@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Игнорируем датасеты
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+
+# Игнорируем папку с данными в проекте 1
+project_1/data/
+project_1/*.csv
+
+# Игнорируем временные файлы Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Игнорируем системные файлы
+.DS_Store*.csv
+*.xlsx
+project_1/data/
+__pycache__/
+.ipynb_checkpoints/
